@@ -1,0 +1,12 @@
+.AddAuthorForm{
+    width: 80%;
+    margin: 50px 10px;
+}
+
+.AddAuthorForm__input{
+    margin-bottom: 20px;
+}
+
+.AddAuthorForm__input >label{
+    display: block;
+}
